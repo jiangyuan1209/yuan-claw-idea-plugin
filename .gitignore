@@ -17,6 +17,7 @@ target/
 *.gradle
 *.kotlin
 build
+PROJECT.md
 
 ### Eclipse ###
 .apt_generated
